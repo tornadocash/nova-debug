@@ -1,0 +1,15 @@
+{
+  "name": "nova-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Roman Semenov <semenov.roma@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tornado-pool": "git+https://github.com/tornadocash/tornado-nova.git"
+  }
+}
